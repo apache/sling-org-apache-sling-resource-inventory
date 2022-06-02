@@ -23,7 +23,6 @@ import java.io.StringWriter;
 
 import javax.json.Json;
 import javax.json.JsonException;
-import javax.json.stream.JsonGenerator;
 
 import org.apache.felix.inventory.Format;
 import org.apache.felix.inventory.InventoryPrinter;
